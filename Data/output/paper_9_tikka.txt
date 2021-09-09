@@ -1,0 +1,487 @@
+AI Meets IT: A Path to Success
+
+
+AI meets IT: a path to success
+
+ABSTRACT
+This white paper explores strategic considerations for organizations that are on the path 
+to using artificial intelligence to transform business processes. The paper highlights 
+the ways in which AI helps organizations streamline and automate processes, drive 
+operational efficiencies, improve decision making, and compete more effectively in the 
+era of the digitally driven enterprise.
+
+May 2021
+
+DELL TECHNOLOGIES WHITE PAPER
+
+
+
+DELL TECHNOLOGIES WHITE PAPER
+
+The information in this publication is provided “as is.” Dell Inc. makes no representations or warranties of any kind with respect to the 
+information in this publication, and specifically disclaims implied warranties of merchantability or fitness for a particular purpose. 
+
+Use, copying and distribution of any software described in this publication require an applicable software license. 
+
+Copyright © 2018 and 2021 Dell Inc. or its subsidiaries. All Rights Reserved. Dell, Dell Technologies, EMC and other trademarks 
+are trademarks of Dell Inc. or its subsidiaries. Intel, Intel Logo are trademarks of Intel Corporation in the U.S. and/or other countries. 
+Other trademarks may be the property of their respective owners. 
+
+Dell Technologies believes the information in this document is accurate as of its publication date. The information is subject to 
+change without notice. 
+
+Published in the USA 05/21.
+
+TABLE OF CONTENTS
+
+THE RISE OF AI  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1
+
+THE MAKING OF AN AI STRATEGY: LET THE JOURNEY BEGIN  .   .  1
+
+WHY AI? WHY NOW?   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2
+
+IMPORTANCE OF AI TO LIFE — AND BUSINESS —  
+AND PROCESSES   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+
+AI BENEFITS  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+
+AI CHALLENGES  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+
+OPPORTUNITIES AND USE CASES   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+
+RECOGNIZE THAT IT’S A JOURNEY   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+
+A COMPREHENSIVE PORTFOLIO  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5
+
+CUSTOMER RESULTS  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5
+
+KEY TAKEAWAYS .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6
+
+
+
+1 DELL TECHNOLOGIES WHITE PAPER
+
+THE RISE OF AI
+Artificial intelligence, AI, deep learning, machine learning — you hear these terms all the 
+time, but what do they really mean for businesses and, more specifically, for IT? 
+
+AI technologies have come into the mainstream, allowing businesses with foresight to 
+deploy them to gain valuable real-world benefits right now. Benefits that are driving business 
+growth and advantages, such as: 
+
+• Experiencing greater value from IT investments 
+
+• Enhancing relationships with customers 
+
+• Eliminating countless hours of repetitive and mundane management tasks
+
+• Helping to ensure that millions of everyday transactions are completed with both speed 
+and accuracy
+
+The truth is, the many of the world’s most innovative companies, from small start-ups to 
+large established enterprises, are well on their way with AI and its related technologies, 
+gaining immediate and long-term benefits, from infrastructure management to product 
+innovation. Are you one of them, and if not, how do you get started?
+
+THE MAKING OF AN AI STRATEGY: LET THE JOURNEY BEGIN
+Analysts agree: Organizations with an AI strategy in place realize benefits others can’t. 
+
+The gap between ambition and execution is large at most companies. Three-quarters of 
+executives believe AI will enable their companies to move into new revenue-generating 
+areas. Almost 85 percent believe AI will allow their companies to achieve or sustain a 
+competitive advantage, yet only about one in five companies has incorporated AI capabilities 
+in offerings or processes. 
+
+According to an MIT Sloan Management Review report, the most advanced group of AI 
+adopters comprises 19 percent of respondents, whom the report refers as “AI Pioneers.” 
+These Pioneers overwhelmingly see the need for an AI strategy, with 85 percent agreeing 
+they have an urgent need for an AI strategy and 90 percent saying they have a strategy in 
+place already. 
+
+Early AI adopters in business have seen their pioneering efforts rewarded. Responses 
+show 81 percent have seen revenues rise in three years, based on AI, and are intending 
+to forge further forward, having gained both competence and a greater perspective on the 
+possibilities. Based on the benefits of early applications, we see great enthusiasm — but 
+also a clear-eyed understanding of the challenges of increasing AI investments and how to 
+realize value at scale.
+
+The key differences lie in recognizing the transformative value of data, defining a relevant 
+AI use case, putting in place AI-enabled and AI-enabling infrastructure, and approaching the 
+relationship to AI as an incremental journey, not a destination. 
+
+To learn more, read the MIT Sloan Management 
+Review’s report “Artificial Intelligence in 
+Business Gets Real .”
+
+https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/
+https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/
+https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/
+
+
+2 DELL TECHNOLOGIES WHITE PAPER
+
+Clearly, the time to make AI part of your business strategy is now, but determining a path 
+for getting  started is not always as clear. To help your organization see the way forward, 
+this paper offers a vision of the AI imperative, as well as a view of what the journey —  
+first steps and long-term pace — looks like.
+
+WHY AI? WHY NOW? 
+A first step in the AI journey begins with understanding where we are now, why the age of 
+AI has begun and why this is the perfect time for organizations large and small to take steps 
+toward becoming an AI-powered operation.
+
+Generally speaking, three main technology advances are converging to make AI at scale 
+more viable, accessible and imperative today. 
+
+These advances are: 
+
+• The never-ending march of Moore’s Law, delivering compute at scale, distributed across 
+data centers, clouds, connected devices and embedded intelligence
+
+• The emergence of the Internet of Things (IoT), cloud-native applications and new data 
+storage methods that, when combined, generate, store and protect massive amounts 
+of data at scale, with more and more new data from all that compute rapidly adding to 
+historical data 
+
+• The maturation of more precise algorithms that can make sense of data and reveal powerful, 
+actionable insights that enable next-generation customer experiences, enhanced business 
+processes across all industries and continuously optimized infrastructure.
+
+Most of all, there can be no AI without data. Data is the fuel for the modern era. The deeper, 
+larger and more complex our data stores and streams become, the more critical the role of 
+AI becomes. Using data, AI is helping organizations accelerate outcomes, drive business 
+growth and make smarter, more accurate decisions across an endless number of industries 
+and use cases. 
+
+USEFUL DEFINITIONS
+BUSINESS INTELLIGENCE (BI) involves the process of 
+collecting data from many sources and preparing it for  
+Business Analytics. 
+
+BUSINESS ANALYTICS (BA) is the process of describing past  
+performance to gain insights of the data through analysis, reporting, 
+queries, or visualizations.
+
+ARTIFICIAL INTELLIGENCE (AI) is the development of  
+computer systems able to perform tasks normally requiring  
+human intelligence (such as visual perception, speech  
+recognition, and translation between languages, etc.).
+
+MACHINE LEARNING (ML) is a sub-field of AI that provides systems 
+the ability to learn from data and improve from experience without being 
+explicitly programmed.
+
+DEEP LEARNING (DL) is a type of ML built on a deep  
+hierarchy of interconnected “neural network” layers, with ability  
+to learn key “features” from data provided.
+
+
+
+3 DELL TECHNOLOGIES WHITE PAPER
+
+IMPORTANCE OF AI TO LIFE — AND BUSINESS —  
+AND PROCESSES 
+Let’s get aspirational for a moment: How might AI transform the way people live and work? 
+The possibilities are as endless as the infinite volumes and varieties of data being created all 
+around us at every moment. 
+
+Much like the printing press, which unlocked the vaults of human knowledge, freeing it from 
+the libraries of monasteries and placing it in the hands of the masses, igniting an era of 
+unprecedented creativity and innovation that laid the foundation for the modern age, AI too will 
+usher in an era of explosive innovation, igniting the next major epoch of human experience. 
+
+This new epoch will be driven by the realization that the value of AI is less about artificial 
+intelligence that replaces human experience and more about augmenting human 
+intelligence, freeing humans to focus on higher-order challenges and helping us make 
+better decisions faster. This human-AI partnership will unleash creativity and innovation 
+not possible by humans or machines alone. This is why studies suggest that AI will 
+create more jobs than it eliminates, and organizations of all kinds will benefit from these 
+new human-machine partnerships. 
+
+AI BENEFITS
+The driving force behind AI is its power to accelerate human progress, from the everyday to 
+the life-altering. 
+
+AI has broad applicability, spanning both public and private sectors and markets of all kinds, 
+from industrial to medical, from education to finance. 
+
+Here is a sampling of the impacts AI is already having:
+
+• Bionic vision: The Computer Vision Group at CSIRO (Commonwealth Scientific and 
+Industrial Research Organisation) has developed software for a bionic vision solution 
+designed to restore sight for people with profound vision loss. This life-changing advance 
+uses large-scale image datasets to learn to recognize more types of images. 
+
+• Safer surgeries: A study that involved 379 orthopedic patients found that AI-assisted 
+robotic procedures resulted in five times fewer complications compared to surgeons 
+operating alone.
+
+• Better-dressed, less stressed human beings: Stitch Fix uses AI to enhance the 
+company’s personal styling services.
+
+• Enhanced credit card fraud protection: Mastercard uses machine learning algorithms 
+to examine 160 million transactions per hour by applying 1.9 million rules each transaction 
+— all in a matter of milliseconds. 
+
+• Better identity verification: Mastercard goes beyond facial recognition to learn motions 
+unique to each user and determine if “you’re really you” by, for example, how you hold 
+your phone while using it.
+
+AI CHALLENGES
+As with every new technology, AI comes with unique challenges, especially in the realm of 
+data and compute. Data is the raw material of AI; it feeds the systems that glean the insights 
+and make the predictions, and the more data the more accurate AI can become.
+
+But all data is not good data. Data is often messy — it’s duplicated, incomplete, geo-biased 
+and requires data engineering — so simplifying data acquisition, management, access and 
+protection are all critical. It’s all about separating the signal from the noise and ensuring you 
+have the right skills, tools and use cases in place to do so.
+
+According to IDC’s 
+findings, the amount 
+of data created and 
+replicated experienced 
+unusually high growth in 
+2020 due to the dramatic 
+increase in the number 
+of people working, 
+learning and entertaining 
+themselves from home . 
+However, less than 2 
+percent of this new data 
+was saved and retained 
+into 2021 .
+
+Source: IDC, "Data Creation and 
+Replication Will Grow at a Faster Rate than 
+Installed Storage Capacity, According to the 
+IDC Global DataSphere and StorageSphere 
+Forecasts.” March 24, 2021.
+
+https://www.csiro.au/en/News/News-releases/2017/CSIRO-powers-bionic-vision-research-with-new-Dell-EMC
+https://www.forbes.com/sites/bernardmarr/2018/07/27/how-is-ai-used-in-healthcare-5-powerful-real-world-examples-that-show-the-latest-advances/#6870bfa05dfb
+https://www.forbes.com/sites/bernardmarr/2018/05/25/stitch-fix-the-amazing-use-case-of-using-artificial-intelligence-in-fashion-retail/#352fd1743292
+https://www.dellemc.com/en-us/solutions/artificial-intelligence/index.htm#overlay=https://www.emc.com/collateral/whitepaper/mastercard-fighting-fraud-the-smart-way.pdf
+https://www.dellemc.com/en-us/solutions/artificial-intelligence/index.htm#overlay=https://www.emc.com/collateral/whitepaper/mastercard-fighting-fraud-the-smart-way.pdf
+https://www.idc.com/getdoc.jsp?containerId=prUS47560321
+https://www.idc.com/getdoc.jsp?containerId=prUS47560321
+https://www.idc.com/getdoc.jsp?containerId=prUS47560321
+https://www.idc.com/getdoc.jsp?containerId=prUS47560321
+https://www.idc.com/getdoc.jsp?containerId=prUS47560321
+
+
+4 DELL TECHNOLOGIES WHITE PAPER
+
+In addressing your data challenges, keep these points in mind:
+
+• Data is everywhere, but not always where you need it, so it’s becoming more and more 
+essential, in the age of IoT, for example, to move compute capabilities to where the data 
+resides.
+
+• Data is overwhelming in that it touches every part of modern business and is endlessly 
+and exponentially growing. This makes it all the more important to identify specific areas in 
+which to begin AI implementations and ensure those implementations allow you the ability to 
+seamlessly scale as your AI focus grows.
+
+Further, massive data sets and modern algorithms require powerful compute and cost-efficient 
+and performance-optimized storage. These solutions are often accelerated with graphics 
+processing units (GPUs), which are efficient at processing large blocks of data in parallel, and 
+field programmable gate arrays (FPGAs), a type of semiconductor that can be programmed or 
+reprogrammed after manufacturing. 
+
+However, where analytics operations are executed varies based on workload. 
+
+• For real-time decisions, the high cost of transport and the need to minimize latency means that 
+being able to move the algorithms and the compute to the data is essential for success.
+
+• For workloads that require direct access to massive amounts of data across a variety of data 
+sources, moving data to compute makes sense.
+
+• Sometimes it’s a combination of the two, where data can be analyzed and acted on against 
+locally but still benefit from federated insights across multiple similar locations.
+
+In short, all three of the core elements (algorithms, data, compute) need to be fluid and movable. 
+We must be able to take any two of these key elements to the other depending on the use case, 
+where it matters, and when it matters, to the business.
+
+OPPORTUNITIES AND USE CASES 
+So, how do you, in your current situation, start doing more with AI and ML technologies to 
+influence the future arc of your organization? 
+
+The first step is identifying a use case, or a series of use cases that will help deliver the 
+outcomes you have in mind. Are there “adjacent spaces” you might do well to explore? 
+That is, concurrent business models, somewhat removed from your own but with service 
+synergies and demographic or logistical overlaps that might lead you to tap into vast new 
+revenue streams? What new product and service innovation secrets are buried inside 
+customer feedback data? AI and ML may help you answer those questions.
+
+RECOGNIZE THAT IT’S A JOURNEY 
+Data is at the heart of the AI journey. Data is fundamental for AI and its subfields, including 
+machine learning and deep learning. Given this reality, the AI journey begins with the 
+consolidation of data for analytics and then builds from there, creating analytics-based 
+applications to drive the intelligence, modeling and inferencing that is driven by data.
+
+While the path to AI is different for all organizations, here are some common steps in the AI 
+journey:
+
+• Outline the business goals and align the company’s AI strategy to define the use case(s)
+
+• Determine data availability and prepare the data for AI analysis and action
+
+• Understand and integrate infrastructure requirements
+
+• Determine steps to build models with validation methodologies 
+
+• Establish tracking tools and systems
+
+• Adapt and scale the strategy over time
+
+
+
+5 DELL TECHNOLOGIES WHITE PAPER
+
+TIPS FROM IDC
+Based on a study of the characteristics of leading IT organizations, IDC offers these 
+recommendations for organizations that want to create a stable foundation for unlocking 
+data capital:
+
+• Embrace autonomous infrastructure that will eliminate tedious maintenance and 
+management tasks and allow IT staff to focus on more strategic initiatives.
+
+• Invest in modernized infrastructure that enables your organization to capitalize on the 
+value of your data. 
+
+• Implement software-defined networking capabilities to automate the provisioning of 
+workloads across internal, colocation and cloud data centers.
+
+• Standardize on a single management platform or enable integration between multiple 
+platforms to improve collaboration and oversight among organizational silos.1 
+
+A COMPREHENSIVE PORTFOLIO
+As you determine your best next steps on the journey to adopting AI solutions, modern 
+infrastructure is an imperative — and Dell Technologies delivers. By offering the industry’s 
+most comprehensive portfolio of AI-capable systems, servers, storage, solutions and 
+services, Dell Technologies enables your organization to take control of data to accelerate 
+time to faster, better, deeper insights.
+
+With the intelligent technologies in modern infrastructures with AI capabilities, and with 
+corresponding AI services, Dell Technologies makes AI adoption faster, easier and more 
+collaborative. Dell Technologies gives you a choice of flexible and scalable solutions, small 
+and large, opening the AI market to organizations of every size. Purpose-built workstations, 
+servers, storage and Dell EMC Ready Solutions for AI provide opportunities to address AI-
+focused use cases that advance business goals.
+
+For years, Dell Technologies has been the undisputed leader in data management, data 
+protection, data storage and compute — the infrastructure building blocks necessary to 
+store, protect and execute against the valuable data that is the fuel for AI. We continue to 
+aggressively innovate in these areas. In addition, we are ourselves an early adopter and 
+advisor when it comes to AI strategy and best practices.
+
+CUSTOMER RESULTS 
+Here are a few examples of the ways in which Dell Technologies customers are capitalizing 
+on AI solutions to drive their businesses forward.
+
+1 IDC, “Emerging Technology and Modern IT: The Key to Unlocking Your Data Capital,” an IDC white paper sponsored by 
+Dell Technologies and Intel, 2018.
+
+Explore Moor Insights & 
+Strategy’s perspective on how 
+Dell EMC Ready Solutions for 
+AI take the guesswork out of AI 
+initiatives — while decreasing 
+time to market and time to 
+learning . Watch the video .
+
+https://cdn2.hubspot.net/hubfs/2295439/Blog/Blog%20Downloads/IDC_The%20Key%20to%20Unlocking%20Your%20Data%20Capital.pdf
+https://www.youtube.com/watch?v=xL4rvQ3uYwk&feature=youtu.be
+https://www.youtube.com/watch?v=xL4rvQ3uYwk&feature=youtu.be
+
+
+6 DELL TECHNOLOGIES WHITE PAPER
+
+To learn more, visit DellTechnologies.com/AI.
+
+IMPROVE OPERATIONAL EFFICIENCIES 
+The best time to solve a problem is before it happens. That’s a goal of Dell SupportAssist 
+that is enabled by AI. This automated proactive and predictive technology helps you reduce 
+your steps and time to resolution, often detecting issues well before they become a crisis.
+
+Using real-time data and predictive modeling for accelerating time to resolution, Dell 
+SupportAssist actively monitors the health of your IT infrastructure. If an issue is 
+detected, Support Assist notifies your organization and Dell Technologies. In some cases, 
+SupportAssist can even predict a failure and resolve the issue before a failure occurs.
+
+SupportAssist is available to all customers at no additional charge. It’s included with all support 
+plans, but features vary based on service level agreements. Explore Dell SupportAssist.
+
+TRANSFORM DECISION MAKING 
+Zenuity, a joint venture of Volvo Cars and Veoneer, is using AI to develop advanced driver-
+assist systems and autonomous-driving technologies that promise to take vehicle safety 
+systems to a new level. The company is expected to have its first driver-assistance products 
+available for sale by 2019, with autonomous-driving technologies following shortly thereafter.2 
+
+Zenuity’s entire end-to-end solution is managed by solutions from Dell Technologies. 
+Read the case study.
+
+DISCOVER NEW REVENUE STREAMS TO GROW THE BUSINESS
+Dell Technologies solutions for AI don’t just speed set up time for data scientists; they also 
+provide faster, deeper AI insights — in some cases, instantaneous insights. 
+
+For example, a Dell Technologies white paper on fraud detection notes that Mastercard 
+completes 165 million financial transactions per hour while employing a model that verifies 
+each transaction against 1.9 million rules to protect customers from fraud in real time using 
+Dell Technologies machine learning with Hadoop. 
+
+Drawing on this expertise in data analytics, Mastercard launched Mastercard Advisors — an 
+entirely new business and new revenue stream based on AI and data analytics solutions. 
+
+KEY TAKEAWAYS
+Today, AI is fundamentally transforming business by enabling organizations to deliver faster, 
+better, deeper and unforeseen insights that streamline and automate processes that drive 
+operational efficiencies, deliver the speed and accuracy of insights to transform decision 
+making, and drive the results, revenues and customer experiences that deliver strong 
+business growth. Organizations that capitalize fully on the AI opportunity will be positioned 
+for greater competitiveness and success in the era of the digitally driven enterprise.
+
+If you’re on, or about to begin your journey to AI, Dell Technologies is an ideal partner. 
+Dell Technologies provides the expertise, along with a broad, innovative portfolio 
+of technologies, to deliver the data-driven solutions that underpin successful AI 
+implementations. Organizations, right now, are using the insights from data, and the 
+power of Dell Technologies AI products and solutions, to differentiate themselves from 
+the competition.
+
+2 Volvo Cars news release, “Volvo Cars and Autoliv announce the launch of Zenuity,” January 03, 2017.
+
+A study by Moor 
+Insights & Strategy 
+concludes that Dell 
+Technologies, with its 
+breadth of solutions 
+and extensive 
+expertise, is “a very 
+good partner for 
+enterprise AI .” 
+Read the white paper .
+
+http://DellTechnologies.com/AI
+https://www.dell.com/en-us/work/learn/supportassist
+https://www.dell.com/en-us/work/learn/supportassist
+https://www.dell.com/en-us/work/learn/supportassist
+https://www.emc.com/collateral/solution-overview/zenuity-case-study.pdf
+https://www.emc.com/collateral/whitepaper/mastercard-fighting-fraud-the-smart-way.pdf
+https://www.media.volvocars.com/global/en-gb/media/pressreleases/202044/volvo-cars-and-autoliv-announce-the-launch-of-zenuity
+http://www.moorinsightsstrategy.com/research-paper-dell-technologies-ready-for-artificial-intelligence-leadership/
+http://www.moorinsightsstrategy.com/research-paper-dell-technologies-ready-for-artificial-intelligence-leadership/
+
+	The rise of AI
+	The making of an AI strategy: let the journey begin
+	Why AI? Why now? 
+	Importance of AI to life — and business — 
+and processes 
+	AI benefits
+	AI challenges
+	Opportunities and use cases 
+	Recognize that it’s a journey 
+	A comprehensive portfolio
+	Customer results 
+	Key takeaways

@@ -198,7 +198,7 @@ if __name__ == '__main__':
 
             final_ds = pd.concat([final_ds, new_df], ignore_index=True)
 
-            final_ds.to_csv('output2/final_csv_6.csv', index=True, index_label='SR_NO')
+            final_ds.to_csv('Data/NER_dataset.csv', index=True, index_label='SR_NO')
     else:
         print("\n \n INVALID PATHS ")
 
