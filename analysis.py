@@ -6,7 +6,8 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.svm import SVC
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, \
-    precision_score, recall_score, f1_score, precision_recall_fscore_support
+                            precision_score, recall_score, f1_score, \
+                            precision_recall_fscore_support, accuracy_score
 
 import matplotlib.pyplot as plt
 
@@ -45,6 +46,8 @@ if __name__ == "__main__":
     log_algo.fit(X, train_y)
     log_y_pred = log_algo.predict(X1)
 
+    print(f'\n\n {"-" * 10} Logistics Y Prediction {"-" * 10} \n\n {log_y_pred}')
+
     result = confusion_matrix(test_y, log_y_pred)
     print('\n\n result --> ', result)
 
@@ -53,6 +56,9 @@ if __name__ == "__main__":
                                                                           xticks_rotation='horizontal',
                                                                           colorbar=False
                                                                         )
+
+    accuracy_rate = accuracy_score(test_y, log_y_pred)
+    print('\n\n ACCURACY RATE ==> ', accuracy_rate)
 
     precision_rate = precision_score(test_y, log_y_pred)
     print('\n\n PRECISION RATE ==> ', precision_rate)
@@ -75,7 +81,7 @@ if __name__ == "__main__":
     bayes.fit(X, train_y)
     bayes_y_pred = bayes.predict(X1)
 
-    print('\n\n --------- Bayes Y Predictation ---------- \n\n', bayes_y_pred)
+    print(f'\n\n {"-" * 10} Bayes Y Predictation {"-" * 10} \n\n {bayes_y_pred}')
 
     bayes_conf = confusion_matrix(test_y, bayes_y_pred, labels=[0, 1])
     print('\n\n result --> ', bayes_conf)
@@ -85,6 +91,9 @@ if __name__ == "__main__":
                                                                             xticks_rotation='horizontal',
                                                                             colorbar=False
                                                                           )
+
+    bayes_accuracy_rate = accuracy_score(test_y, bayes_y_pred)
+    print('\n\n ACCURACY RATE ==> ', bayes_accuracy_rate)
 
     bayes_precision_rate = precision_score(test_y, bayes_y_pred)
     print('\n\n PRECISION RATE ==> ', bayes_precision_rate)
@@ -106,7 +115,7 @@ if __name__ == "__main__":
     knn.fit(X, train_y)
     knn_y_pred = knn.predict(X1)
 
-    print('\n\n --------------- KNN Y Prediction --------------- \n\n', knn_y_pred)
+    print(f'\n\n {"-" * 10} KNN Y Prediction {"-" * 10}  \n\n {knn_y_pred}')
 
     knn_conf = confusion_matrix(test_y, knn_y_pred, labels=[0, 1])
     print('\n\n result --> ', knn_conf)
@@ -114,6 +123,10 @@ if __name__ == "__main__":
     ConfusionMatrixDisplay(knn_conf, display_labels=knn.classes_).plot(
                                                                         xticks_rotation='horizontal',
                                                                         colorbar=False)
+
+    knn_accuracy_rate = accuracy_score(test_y, knn_y_pred)
+    print('\n\n ACCURACY RATE ==> ', knn_accuracy_rate)
+
 
     knn_precision_rate = precision_score(test_y, knn_y_pred)
     print('\n\n PRECISION RATE ==> ', knn_precision_rate)
@@ -135,7 +148,7 @@ if __name__ == "__main__":
     dtree.fit(X, train_y)
     tree_y_pred = dtree.predict(X1)
 
-    print('\n\n ------------------ Tree Y Prediction -------------------- \n\n ', tree_y_pred)
+    print(f'\n\n {"-" * 10}  Tree Y Prediction {"-" * 10} \n\n {tree_y_pred}')
 
     tree_conf = confusion_matrix(test_y, tree_y_pred, labels=[0, 1])
     print('\n\n result --> ', tree_conf)
@@ -145,6 +158,9 @@ if __name__ == "__main__":
                                                                             xticks_rotation='horizontal',
                                                                             colorbar=False
                                                                         )
+
+    tree_accuracy_rate = accuracy_score(test_y, tree_y_pred)
+    print('\n\n ACCURACY RATE ==> ', tree_accuracy_rate)
 
     tree_precision_rate = precision_score(test_y, tree_y_pred)
     print('\n\n PRECISION RATE ==> ', tree_precision_rate)
@@ -166,8 +182,7 @@ if __name__ == "__main__":
     svm.fit(X, train_y)
     svm_y_pred = svm.predict(X1)
 
-    print('\n\n -------------------- SVM Y Prediction -------------------\n\n', svm_y_pred)
-    print('\n\n len of y predict data ==> ', len(svm_y_pred))
+    print(f'\n\n {"-" * 10}  SVM Y Prediction{"-" * 10} \n\n {svm_y_pred}')
 
     svm_conf = confusion_matrix(test_y, svm_y_pred, labels=[0, 1])
     print('\n\n result --> ', svm_conf)
@@ -177,6 +192,9 @@ if __name__ == "__main__":
                                                                         xticks_rotation='horizontal',
                                                                         colorbar=False
                                                                       )
+
+    svm_accuracy_rate = accuracy_score(test_y,svm_y_pred)
+    print('\n\n ACCURACY RATE ==> ', svm_accuracy_rate)
 
     svm_precision_rate = precision_score(test_y, svm_y_pred)
     print('\n\n PRECISION RATE ==> ', svm_precision_rate)

@@ -1,37 +1,45 @@
- --------- Logistics Analysis ----------
+---------- Logistics Analysis ----------
 
  result -->  [[212  30]
             [  4 366]]
 
 
+ ACCURACY RATE ==>  0.9489795918367347
+
+
  PRECISION RATE ==>  0.9418604651162791
 
 
- RECALL RATE ==>  0.9891891891891892
+ RECALL RATE ==> 0.9891891891891892
 
 
- F1 SCORE  ==>   0.9556135770234986
+ F1 SCORE  ==>   0.970059880239521
 
 
- --------- Bayes Analysis ----------
+ ---------- Bayes Analysis ----------
+
 
  result -->  [[242   0]
             [301  69]]
 
 
- PRECISION RATE ==> 0.9285714285714286
+ ACCURACY RATE ==>  0.29591836734693877
+
+
+ PRECISION RATE ==>  0.9285714285714286
 
 
  RECALL RATE ==>  0.1864864864864865
 
+ F1 SCORE  ==>   0.27368421052631575
 
- F1 SCORE  ==>   0.3143507972665148
-
-
- --------------- KNN Analysis ---------------
+ ----------KNN Analysis ----------
 
   result -->  [[195  47]
               [ 6 364]]
+
+
+ ACCURACY RATE ==>  0.9489795918367347
 
 
  PRECISION RATE ==>  0.9418604651162791
@@ -40,13 +48,16 @@
  RECALL RATE ==>  0.9837837837837838
 
 
- F1 SCORE  ==>    0.970059880239521
+ F1 SCORE  ==>   0.970059880239521
 
 
- ------------------ Decision Tree Analysis --------------------
+ ----------   Decision Tree Analysis ----------
 
  result -->  [[231  11]
              [ 3 367]]
+
+
+ ACCURACY RATE ==>  0.9795918367346939
 
 
  PRECISION RATE ==>  0.9759036144578314
@@ -54,20 +65,17 @@
 
  RECALL RATE ==>  0.9918918918918919
 
-
  F1 SCORE  ==>   0.981283422459893
 
 
-
- -------------------- SVM Analysis -------------------
-
-
- len of y predict data ==>  612
+  ---------- SVM Analysis ----------
 
 
- result -->  [[242 0]
+result -->  [[242 0]
              [2 368]]
 
+
+ ACCURACY RATE ==>  0.80394708994709
 
  PRECISION RATE ==>  0.93394708994709
 
